@@ -6,4 +6,5 @@ The raw model code for segmentation is provided. You may use it with your own da
 Requirements :
 
 pip install timm
-pipi install mamba-ssm
+
+pip install mamba-ssm
